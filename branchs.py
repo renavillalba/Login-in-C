@@ -26,3 +26,10 @@ def despedida():
     return respuesta2
 
 despedida()
+
+#Esta funcion la hice en la rama branchcomida
+def comer():
+
+    print("Comemos algo?")
+
+comer()
