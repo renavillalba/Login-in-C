@@ -8,3 +8,9 @@ def mostrando_mensaje():
     return saludo
 
 mostrando_mensaje()
+
+def intento_de_saludo():
+
+    print("Saludo solo con print sin return")
+
+intento_de_saludo()
