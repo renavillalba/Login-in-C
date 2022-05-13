@@ -18,3 +18,11 @@ def resupesta():
     return resp1
 
 resupesta()
+
+def despedida():
+
+    respuesta2 = print("Bueno chau!")
+
+    return respuesta2
+
+despedida()
