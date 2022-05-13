@@ -11,3 +11,10 @@ def saludo_inicial():
 
 saludo_inicial()
 
+def resupesta():
+
+    resp1 = print("Ponele")
+
+    return resp1
+
+resupesta()
