@@ -13,7 +13,7 @@ saludo_inicial()
 
 def resupesta():
 
-    resp1 = print("Ponele")
+    resp1 = print("Ponele que si")
 
     return resp1
 
